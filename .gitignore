@@ -43,3 +43,8 @@ complaint_embeddings.parquet
 complaints.csv
 10 Academy - KAIM 8-Week 7.docx
 10 Academy - KAIM 8 - Week 7.docx
+notebooks/data/processed/filtered_complaints_final.csv
+notebooks/data/processed/cleaned_complaints_final.csv
+notebooks/data/processed/cleaning_progress.pkl
+notebooks/data/processed/cleaned_complaints_no_emojis.csv
+notebooks/todo_list.md
