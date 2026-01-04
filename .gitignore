@@ -50,3 +50,6 @@ notebooks/todo_list.md
 notebooks/data/processed/filtered_complaints_final.csv
 notebooks/data/processed/cleaned_complaints_no_emojis_lowercase.csv
 notebooks/data/processed/cleaned_complaints_no_emojis_lowercase_cleaned_light.csv
+data/processed/chunked_complaints_full.jsonl
+data/processed/chunked_complaints_sample.jsonl
+data/processed/sampled_complaints.csv
