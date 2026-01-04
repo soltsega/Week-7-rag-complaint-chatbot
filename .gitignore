@@ -47,3 +47,4 @@ notebooks/data/processed/cleaned_complaints_final.csv
 notebooks/data/processed/cleaned_complaints_no_emojis.csv
 notebooks/data/processed/cleaning_progress.pkl
 notebooks/todo_list.md
+notebooks/data/processed/filtered_complaints_final.csv
