@@ -88,3 +88,6 @@ notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/.no_exist/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/chat_template.jinja
 model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md
+vector_store/sample_faiss_index.index
+vector_store/sample_metadata.json
+data/processed/embeddings_sample.parquet
