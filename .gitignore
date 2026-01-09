@@ -91,3 +91,4 @@ notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/
 vector_store/sample_faiss_index.index
 vector_store/sample_metadata.json
 data/processed/embeddings_sample.parquet
+data/processed/sampled_150k.jsonl
