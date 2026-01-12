@@ -132,3 +132,9 @@ vector_store/medium_metadata.json
 vector_store/medium_faiss_index.index
 vector_store/medium_faiss_index.index
 vector_store/medium_metadata.json
+columns_arrow.txt
+columns_clean.txt
+columns.txt
+schema_full.txt
+schema_clean.txt
+columns_full.txt
