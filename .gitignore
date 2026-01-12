@@ -1,3 +1,24 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
 # Python
 __pycache__/
 *.py[cod]
@@ -90,6 +111,25 @@ notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/
 vector_store/sample_faiss_index.index
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/special_tokens_map.json
 .gitignore
+model_cache/models--sentence-transformers--all-MiniLM-L6-v2/refs/main
+model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer.json
+model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json
+notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/model.safetensors
+notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/.no_exist/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/chat_template.jinja
+model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md
+notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/README.md
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Project specific
+
+notebooks/model_cache/
+vector_store/
+data/processed/
+.DS_Store
 .gitignore
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/sentence_bert_config.json
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/tokenizer.json
