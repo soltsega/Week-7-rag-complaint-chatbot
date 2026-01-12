@@ -108,7 +108,7 @@ with gr.Blocks(theme=THEME, title="CrediTrust AI - Complaint Analyst") as demo:
             gr.Markdown("💡 **Tip**: Use the **Evidence** section below the chat to verify the AI's answer against real consumer narratives.")
 
         with gr.Column(scale=4):
-            chatbot = gr.Chatbot(label="CrediTrust Analyst", bubble_full_width=False, height=500)
+            chatbot = gr.Chatbot(label="CrediTrust Analyst", height=500)
             
             with gr.Row():
                 msg = gr.Textbox(
