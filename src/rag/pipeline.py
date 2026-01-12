@@ -1,11 +1,11 @@
 from pathlib import Path
 from .retriever import ComplaintRetriever
-from .generator import ComplaintGenerator
+from .local_generator import LocalComplaintGenerator
 
 class RAGPipeline:
     def __init__(self, vector_store_dir: str):
         self.retriever = ComplaintRetriever(Path(vector_store_dir))
-        self.generator = ComplaintGenerator()
+        self.generator = LocalComplaintGenerator()
         
     def query(self, user_question: str, product_filter: str = None) -> dict:
         """
