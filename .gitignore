@@ -285,3 +285,5 @@ schema_clean.txt
 schema_full.txt
 columns.txt
 columns_full.txt
+notebooks/evaluation_summary.csv
+notebooks/task_3_final_evaluation.csv
