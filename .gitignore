@@ -92,3 +92,5 @@ vector_store/sample_faiss_index.index
 vector_store/sample_metadata.json
 data/processed/embeddings_sample.parquet
 data/processed/sampled_150k.jsonl
+vector_store/medium_metadata.json
+vector_store/medium_faiss_index.index
