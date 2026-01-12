@@ -20,7 +20,7 @@ mistune==3.2.0
 murmurhash==1.0.15
 nest-asyncio==1.6.0
 nltk==3.9.2
-numpy==2.4.0
+numpy==1.26.4
 packaging==25.0
 pandocfilters==1.5.1
 parso==0.8.5
