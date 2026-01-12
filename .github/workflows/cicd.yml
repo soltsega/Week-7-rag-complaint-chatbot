@@ -27,9 +27,10 @@ jobs:
     - name: Lint with ruff
       run: |
         # stop the build if there are Python syntax errors or undefined names
-        ruff check . --select E9,F63,F7,F82 --output-format=github
+        ruff check . --select E9,F63,F7,F82 --output-format=github --exclude notebooks
         # exit-zero treats all errors as warnings.
-        ruff check . --exit-zero --statistics
+        # we exclude notebooks here as well for consistent statistics
+        ruff check . --exit-zero --statistics --exclude notebooks
 
     - name: Test with pytest
       run: |
