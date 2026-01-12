@@ -96,3 +96,6 @@ notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/snapshots/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/modules.json
 notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/.no_exist/c9745ed1d9f207416be6d2e6f8de32d1f16199bf/adapter_config.json
 data/processed/embeddings_sample.parquet
+vector_store/medium_faiss_index.index
+vector_store/medium_metadata.json
+.gitignore
