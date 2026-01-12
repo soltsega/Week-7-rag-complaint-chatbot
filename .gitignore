@@ -138,4 +138,9 @@ notebooks/model_cache/models--sentence-transformers--all-MiniLM-L6-v2/.no_exist/
 data/processed/embeddings_sample.parquet
 vector_store/medium_faiss_index.index
 vector_store/medium_metadata.json
-.gitignore
+columns_arrow.txt
+columns_clean.txt
+schema_clean.txt
+schema_full.txt
+columns.txt
+columns_full.txt
